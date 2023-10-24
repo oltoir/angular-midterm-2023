@@ -1,0 +1,152 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "content": "This is the content of the first post."
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "content": "This is the content of the second post."
+    },
+    {
+      "id": 3,
+      "title": "Third Post",
+      "content": "This is the content of the third post."
+    },
+    {
+      "title": "Fourth post",
+      "content": "This is comamsdklas ",
+      "id": 4
+    },
+    {
+      "title": "asdas",
+      "content": "dasads",
+      "id": 5
+    },
+    {
+      "title": "asdasd",
+      "content": "asddasasd",
+      "id": 6
+    },
+    {
+      "title": "asdadsasddasasd",
+      "content": "asdasdasdasd",
+      "id": 7
+    },
+    {
+      "title": "asdasd",
+      "content": "asdasdasd",
+      "id": 8
+    },
+    {
+      "title": "asd",
+      "content": "asd",
+      "id": 9
+    },
+    {
+      "title": "aaa",
+      "content": "aaaaaaa",
+      "id": 10
+    },
+    {
+      "title": "asdasdas",
+      "content": "dasdasasd",
+      "id": 11
+    },
+    {
+      "title": "asd",
+      "content": "asd",
+      "id": 12
+    },
+    {
+      "title": "123",
+      "content": "123",
+      "id": 13
+    },
+    {
+      "title": "adsasd",
+      "content": "asdasd",
+      "id": 14
+    },
+    {
+      "title": "321",
+      "content": "321",
+      "id": 15
+    },
+    {
+      "title": "123",
+      "content": "123",
+      "id": 16
+    }
+  ],
+  "likes": [
+    {
+      "postId": 16,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "postId": 16,
+      "userId": 1,
+      "text": "asdasd",
+      "id": 1
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "text": "asdasdasdasasd",
+      "id": 2
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "text": "asdasdasdasasd",
+      "id": 3
+    },
+    {
+      "postId": 16,
+      "userId": 1,
+      "text": "asdasdasdasasd",
+      "id": 4
+    }
+  ]
+}
